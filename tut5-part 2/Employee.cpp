@@ -2,6 +2,7 @@
 #include<iostream>
 #include <string>
 
+
 using namespace std;
 
 
@@ -18,8 +19,8 @@ Employee::~Employee()
 
 	void Employee::name(string)
 	{
-		string identity;
-		cout << "name of employee is " << identity  << endl;
+		string temp;
+		cout << "name of employee is " << temp << endl;
 
 
 	}
