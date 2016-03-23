@@ -54,3 +54,27 @@ Employee::~Employee()
 		pay = hrs * x;
 		cout << "the hourly employee earns " << pay << endl;
 	}
+
+	void commissionemployee::setsalarybase(float)
+	{
+		float base;
+		cout << "the fixed salary base is " << base << endl;
+
+	}
+	void commissionemployee::setrate(float)
+	{
+		float comm;
+		float commission;
+		float base;
+		commission = comm* base;
+		cout << "the commsion earened is " << commission << endl;
+
+	}
+
+	void commissionemployee::setrevenue(float)
+	{
+		float revenue;
+		cout << "the revenue amount is" << revenue << endl;
+	}
+
+

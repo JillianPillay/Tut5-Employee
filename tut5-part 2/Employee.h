@@ -36,3 +36,17 @@ public:
 
 
 };
+class commissionemployee
+{
+public:
+
+	commissionemployee();
+	~commissionemployee();
+	void setsalarybase(float);
+	void setrate(float);
+	void setrevenue(float);
+
+
+
+
+}
